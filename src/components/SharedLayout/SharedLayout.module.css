@@ -1,0 +1,9 @@
+.baseLink{
+    text-decoration: none;
+    color: aqua;
+}
+
+.activeLink{
+    text-decoration: none;
+    color: red;
+}
